@@ -1,0 +1,20 @@
+{
+  "name": "Private Ledger Utility Token",
+  "symbol": "XPLT",
+  "decimals": 18,
+  "description": "XPLT is a proprietary cryptocurrency designed for seamless global transactions and customizable banking features.",
+  "website": "https://irviestores.com",
+  "explorer": "https://etherscan.io/token/0x762BC6278C7a12A1dfeE29fd0d301Ae7c21e8c75",
+  "status": "active",
+  "id": "0x762BC6278C7a12A1dfeE29fd0d301Ae7c21e8c75",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/pluexc/plubank"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/xplttoken"
+    }
+  ]
+}
